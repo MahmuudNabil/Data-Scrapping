@@ -12,6 +12,9 @@ this repository contain many project on Scrapping data using different libraries
 <ul>Extract data from Wikipedia website</ul>
 <ul>get data about US states and its population data </ul>
 <ul> save these data into .csv file</ul>
-  
+ 
+<h2> Amazon Web Scrapping</h2>
+<ul>Extract data from Amazon website</ul>
+ 
 <h2> Scrapping Free python jobs</h2>
 <ul>scrapping python jobs and save data into .csv file</ul>
