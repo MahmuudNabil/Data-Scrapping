@@ -7,6 +7,10 @@ this repository contain many project on Scrapping data using different libraries
 <ul>get data about the most popular viedos </ul>
 <ul> get video title , video views , and time video uploaded </ul>
 
+<h2> Indeed Web Scrapping</h2>
+<ul>extract data from multiple pages </ul>
+<ul> get python developer jobs from Indeed website</ul>
+<ul> <b> Tools : </b> python (Requests , BeautifulSoup , pandas)</ul>
 
 <h2> State Population</h2>
 <ul>Extract data from Wikipedia website</ul>
