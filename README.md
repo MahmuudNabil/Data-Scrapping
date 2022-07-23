@@ -3,7 +3,7 @@ this repository contain many project on Scrapping data using different libraries
 
 
 <h2> Amazon | Samsung Phones</h2>
-<ul> Extract Samsung Phones information from Amazon website </ul>
+<ul> Extract Samsung Phones information from <a href='https://www.amazon.eg/s?k=samsung&rh=n%3A21832883031&ref=nb_sb_noss'>Amazon website</a> </ul>
 <ul>Save data into (csv , xlsx , json) formate </ul>
 <ul> <b> Tools : </b> python (requests , BeautifulSoup , pandas) </ul>
 
