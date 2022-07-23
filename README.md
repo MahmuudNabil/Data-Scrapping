@@ -2,6 +2,11 @@
 this repository contain many project on Scrapping data using different libraries (Requests, BeautifulSoup, Selenium, ....etc) 
 
 
+<h2> Amazon | Samsung Phones</h2>
+<ul> Extract Samsung Phones information from Amazon website </ul>
+<ul>Save data into (csv , xlsx , json) formate </ul>
+<ul> <b> Tools : </b> python (requests , BeautifulSoup , pandas) </ul>
+
 <h2> youtube videos using Selenium</h2>
 <ul>Extract data from John Watson Ronny Youtube Channel</ul>
 <ul>get data about the most popular viedos </ul>
