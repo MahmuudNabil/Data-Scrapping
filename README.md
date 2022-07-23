@@ -8,7 +8,7 @@ this repository contain many project on Scrapping data using different libraries
 <ul> <b> Tools : </b> python (requests , BeautifulSoup , pandas) </ul>
 
 <h2> youtube videos using Selenium</h2>
-<ul>Extract data from John Watson Ronny Youtube Channel</ul>
+<ul>Extract data from <a href ='https://www.youtube.com/c/JohnWatsonRooney/videos'>John Watson Ronny Youtube Channel </a> </ul>
 <ul>get data about the most popular viedos </ul>
 <ul> <b> Tools : </b> python (requests , Selenium , pandas) </ul>
 
