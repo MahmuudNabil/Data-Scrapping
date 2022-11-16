@@ -1,5 +1,5 @@
 # Data-Scrapping
-this repository contain many project on Scrapping data using different libraries (Requests, BeautifulSoup, Selenium, ....etc) 
+this repository contain many projects on Scrapping data using different libraries (Requests, BeautifulSoup, Selenium, ....etc) 
 
 
 <h2> Amazon | Samsung Phones</h2>
